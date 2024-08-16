@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+div{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+img{
+    height: 300px;
+    width: 600px;
+    border: 5px solid red;
+}
+#mot-p1{
+    font-family: "Libre Baskerville", serif;
+    font-size: 30px;
+}
+#mot-p2{
+    font-family: "Libre Baskerville", serif;
+    font-size: 20px;
+}
